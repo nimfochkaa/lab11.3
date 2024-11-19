@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs project\\11.3 \u0426\u0415\u0419\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7C45EA-E1E0-40AF-B765-3FBF5F53E747}|11.3 \u0426\u0415\u0419\\11.3 \u0426\u0415\u0419.vcxproj|D:\\vs project\\11.3 \u0426\u0415\u0419\\11.3 \u0426\u0415\u0419\\11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C7C45EA-E1E0-40AF-B765-3FBF5F53E747}|11.3 \u0426\u0415\u0419\\11.3 \u0426\u0415\u0419.vcxproj|solutionrelative:11.3 \u0426\u0415\u0419\\11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AAC6E-127B-459C-B44A-BF9AEC4BC17A}|UnitTest1\\UnitTest1.vcxproj|D:\\vs project\\11.3 \u0426\u0415\u0419\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{088AAC6E-127B-459C-B44A-BF9AEC4BC17A}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\vs project\\11.3 \u0426\u0415\u0419\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\vs project\\11.3 \u0426\u0415\u0419\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T22:50:17.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "11.cpp",
+              "DocumentMoniker": "D:\\vs project\\11.3 \u0426\u0415\u0419\\11.3 \u0426\u0415\u0419\\11.cpp",
+              "RelativeDocumentMoniker": "11.3 \u0426\u0415\u0419\\11.cpp",
+              "ToolTip": "D:\\vs project\\11.3 \u0426\u0415\u0419\\11.3 \u0426\u0415\u0419\\11.cpp",
+              "RelativeToolTip": "11.3 \u0426\u0415\u0419\\11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T22:27:58.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
